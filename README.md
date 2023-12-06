@@ -2,6 +2,15 @@
 Fazendo um treinamento da YoloV8
 
 ## Treinando
+### Instalando pytorch com CUDA para uso da GPU
+Se você tem uma placa de vídeo compatível com CUDA, primeiro instale o PyTorch com CUDA neste link
+[https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+
+Instale o Yolo
+'''
+pip install ultralitics
+'''
+
 Para treinar, acompanhe o vídeo e use o arquivo "train_among_v8.py"
 
 ## Testando
