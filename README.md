@@ -10,5 +10,6 @@ Para testar com WebCam use o arquivo "detectar_usando_webcam.py"
 
 Para testar capturando a tela use o arquivo "detectar_capturando_tela.py"
 Neste caso configure o tamanho da tela no campo "size" da wincap e ajuste o offset do ponto inicial que quer capturar
+Também é possível capturar passando o nome da janela que deseja usar (porém nem sempre funciona)
 
 Valeuuu
