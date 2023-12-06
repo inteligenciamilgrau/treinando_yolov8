@@ -7,11 +7,12 @@ Se você tem uma placa de vídeo compatível com CUDA, primeiro instale o PyTorc
 
 [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 
-Instale o Yolo
+### Instale o Yolo
 ```
 pip install ultralitics
 ```
 
+### Treinamento
 Para treinar, acompanhe o vídeo e use o arquivo "train_among_v8.py"
 
 ## Testando
