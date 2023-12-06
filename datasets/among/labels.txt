@@ -1,0 +1,68 @@
+gate01
+gate02
+gate03
+gate04
+gate05
+gate06
+gate07
+gate08
+gate09
+gate10
+mesa01
+mesaCentral
+Weapons Clear Asteroids
+computer
+Upper Engine Accept Diverted Power
+Lower Engine Accept Diverted Power
+gas
+MedBay Inspect Sampleq
+gateCafeteriaMeio
+Admin Upload
+Admin Swipe Card
+Storage Fix Wiring
+Storage Empty Garbage
+electricalPanelLarge
+Shields Eletric Shields Text
+Communication Download Data
+Shields Prime Shields
+Shields Accept Diverted Power
+zCorridor
+eletricNav
+o2
+Weapons Download Data
+Cafeteria Fix Wiring
+Cafeteria Empty Garbages
+Reactor Start Reactor
+securityPC
+MedBay Submit Scan
+Electrical Download
+Electrical Divert
+Reactor Unlock Manifolds
+Electrical Fix Wiring
+Electrical Calibrated
+Navigation Chart Course
+Navigation Stabilize Steering
+Navigation Fix Wiring
+Admin Map
+Security Fix Wiring
+Shields Accept Diverted Powe
+O2 Clean O2 Filter
+Shields Prime Shields Rep
+Storage Fuel Engines
+Upper Engines Fuel Engines
+Lower Engines Fuel Engines
+Player
+PlayerMini
+TasksMap
+fio_verm_esq
+fio_verm_dir
+fio_ama_esq
+fio_ama_dir
+fio_roxo_esq
+fio_roxo_dir
+fio_azul_esq
+fio_azul_dir
+flyingCube
+midCorridor
+navDoor
+Admin Fix Wiring

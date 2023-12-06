@@ -1,0 +1,88 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# COCO128 dataset https://www.kaggle.com/ultralytics/coco128 (first 128 images from COCO train2017) by Ultralytics
+# Example usage: python train.py --data coco128.yaml
+# parent
+# ├── yolov5
+# └── datasets
+#     └── coco128  ← downloads here (7 MB)
+
+# "c:\users\bobgreen\documents\pythonscripts\python_envs\yolov5env\scripts\python.exe"  "C:\Users\BobGreen\Documents\PythonScripts\python_envs\yolov5env\Scripts\tensorboard.exe" --logdir runs\train_among
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ./  # dataset root dir
+train: among/train  # train images (relative to 'path') 128 images
+val: among/train  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: gate_01
+  1: gate_02
+  2: gate_03
+  3: gate_04
+  4: gate_05
+  5: gate_06
+  6: gate_07
+  7: gate_08
+  8: gate_09
+  9: gate_10
+  10: mesa_01
+  11: mesa_Central
+  12: Weapons Clear Asteroids
+  13: computer
+  14: Upper Engine Accept Diverted
+  15: Lower Engine Accept Diverted
+  16: gas
+  17: MedBay Inspect Sample
+  18: gateCafeteriaMeio
+  19: Admin Upload
+  20: Admin Swipe Card
+  21: Storage Fix Wiring
+  22: Storage Empty Garbage
+  23: electricalPanelLarge
+  24: Shields Eletric Shields
+  25: Communication Download
+  26: Shields Prime Shields
+  27: Shields Accept Diverted
+  28: zCorridor
+  29: eletricNav
+  30: o2
+  31: Weapons Download Data
+  32: Cafeteria Fix Wiring
+  33: Cafeteria Empty Garbages
+  34: Reactor Start Reactor
+  35: securityPC
+  36: MedBay Submit Scan
+  37: Electrical Download
+  38: Electrical Divert
+  39: Reactor Unlock Manifolds
+  40: Electrical Fix Wiring
+  41: Electrical Calibrated
+  42: Navigation Chart Course
+  43: Navigation Stabilize
+  44: Navigation Fix Wiring
+  45: Admin Map
+  46: Security Fix Wiring
+  47: Shields Accept Diverted DOIS
+  48: O2 Clean O2 Filter
+  49: Shields Prime Shields Rep
+  50: Storage Fuel Engines
+  51: Upper Engines Fuel
+  52: Lower Engines Fuel
+  53: Player
+  54: Mini Player
+  55: Tasks Map
+  56: fio_verm_esq
+  57: fio_verm_dir
+  58: fio_ama_esq
+  59: fio_ama_dir
+  60: fio_roxo_esq
+  61: fio_roxo_dir
+  62: fio_azul_esq
+  63: fio_azul_dir
+  64: flyingCube
+  65: midCorridor
+  66: navDoor
+  67: Admin Fix Wiring
+
+  # "c:\users\bobgreen\documents\pythonscripts\python_envs\yolov5env\scripts\python.exe"  "C:\Users\BobGreen\Documents\PythonScripts\python_envs\yolov5env\Scripts\tensorboard.exe" --logdir runs\train_among
