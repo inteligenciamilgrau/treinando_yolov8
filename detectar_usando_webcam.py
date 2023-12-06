@@ -6,8 +6,8 @@ import numpy as np
 # origens possíveis: image, screenshot, URL, video, YouTube, Streams -> ESP32 / Intelbras / Cameras On-Line
 # mais informações em https://docs.ultralytics.com/modes/predict/#inference-sources
 
-#cap = cv2.VideoCapture(0)
-cap = cv2.VideoCapture(1, cv2.CAP_DSHOW)
+cap = cv2.VideoCapture(0)
+#cap = cv2.VideoCapture(1, cv2.CAP_DSHOW)
 
 # Usa modelo da Yolo
 # Model	    size    mAPval  Speed       Speed       params  FLOPs
