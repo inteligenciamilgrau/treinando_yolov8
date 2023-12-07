@@ -31,3 +31,5 @@ Também é possível capturar passando o nome da janela que deseja usar (porém 
 
 
 Valeuuu
+
+[!["Treinando Redes Neurais Com Imagens Próprias"](https://img.youtube.com/vi/KV5lszcKuiE/0.jpg)](https://www.youtube.com/watch?v=KV5lszcKuiE)
